@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  javamicroservicejjj-cli:
+  - apiVersion: v1
+    created: 2019-04-04T11:02:37.2047552+09:00
+    description: A Helm chart for Kubernetes
+    digest: f3c22a129b5057f6c1dc40c57416c58522ee2a022ab98875890f98135c6d99ed
+    name: javamicroservicejjj-cli
+    urls:
+    - javamicroservicejjj-cli-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-04-04T11:02:37.2047552+09:00
